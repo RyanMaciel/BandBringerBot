@@ -1,0 +1,6 @@
+environment_variables.txt
+music-recommendations
+music-recommendations/
+music-recommendations/*
+music-recommendations/**/*
+__pycache__/
